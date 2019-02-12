@@ -1,0 +1,2 @@
+export SLACK_TOKEN='super_secret_token'
+export SLACK_URL='https://your_slack_channel_hook'
